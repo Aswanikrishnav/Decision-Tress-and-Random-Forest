@@ -31,10 +31,10 @@ Target Variable:
 
 ## Tools and Libraries
 
-python
-numpy
-pandas
-matplotlib
+python,
+numpy, 
+pandas, 
+matplotlib, 
 scikit-learn
 
 ## Project Workflow
